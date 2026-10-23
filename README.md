@@ -15,7 +15,7 @@ I'm a mechanical engineer with hands-on experience in manufacturing process opti
 - **M.S. in Mechanical Engineering** from Northeastern University, Boston (2026).
 - **Previously Manufacturing Engineer at Mylan Laboratories**, where CAPAs from 30+ NCMR investigations delivered **$87K in annual savings** and redesigned fixtures added **80 units/day** across 30+ SKUs.
 - **Certified** Lean Green Belt (IISE), SolidWorks Associate (CSWA) and SolidWorks Sustainability Associate.
-- **Open to** manufacturing, process and quality engineering roles.
+- **Open to** manufacturing, process, quality and mechanical design engineering roles.
 
 ### Selected work
 
@@ -25,6 +25,7 @@ I'm a mechanical engineer with hands-on experience in manufacturing process opti
 | [**OEE & Downtime Dashboard**](https://github.com/PiyushBhamare2111/oee-downtime-dashboard) | MES-style plant simulator and dashboard: OEE, Six Big Losses, downtime Pareto, MTBF/MTTR and a what-if panel for changeover reduction. | Python · Streamlit · Plotly |
 | [**Surface Defect Inspection**](https://github.com/PiyushBhamare2111/surface-defect-inspection) | ResNet18 classifies 6 steel defect types, with Grad-CAM heatmaps and accept/reject/review thresholds. Stress-tested for focus and lighting drift. | PyTorch · torchvision · Streamlit |
 | [**Assembly Line Balancer**](https://github.com/PiyushBhamare2111/assembly-line-balancer) | Takt time, three textbook heuristics and an exact CP-SAT optimizer, with yamazumi charts. Matches the published optimum on all 81 Scholl benchmark instances. | Python · OR-Tools · Streamlit |
+| [**Tolerance Stack-up Studio**](https://github.com/PiyushBhamare2111/tolerance-stackup-studio) | Worst-case, RSS and Monte Carlo stack-ups linked to a PFMEA and control plan, with checks that the control plan enforces every Cpk the stack-up assumes. Excel export with live formulas. 54 tests. | Python · Streamlit · openpyxl |
 | [**Topology Optimization in Python**](https://github.com/PiyushBhamare2111/topology-optimization-python) | 2D SIMP optimizer written from scratch: FEA, filters and optimality-criteria update, with STL export. Includes a C-clamp case based on my ANSYS project. | NumPy · SciPy · Streamlit |
 | [**Predictive Maintenance (RUL)**](https://github.com/PiyushBhamare2111/predictive-maintenance-rul) | Predicts jet-engine remaining life on NASA C-MAPSS and turns each prediction into a cost-optimal maintenance decision. | PyTorch · scikit-learn · Streamlit |
 | **Topology-optimized C-clamp** | Topology optimization under a 100 N load cut part volume to 32.6% while keeping peak stress within PLA limits. Printed under 6 g at ±0.2 mm and tested to failure at 0.63 kN, confirming the FEA. | ANSYS · FEA · FFF 3D printing |
@@ -43,7 +44,7 @@ I'm a mechanical engineer with hands-on experience in manufacturing process opti
 <summary><b>Highlights by role</b></summary>
 
 **Mylan Laboratories**
-- Calibrated Cognex/Keyence vision systems: SMT inspection accuracy up 15%, 300+ false rejects/month eliminated.
+- Calibrated Cognex/Keyence machine-vision inspection: accuracy up 15%, 300+ false rejects/month eliminated.
 - Integrated MES/SCADA with Power BI across 8 assembly lines for real-time defect tracking.
 - Validated inspection systems with Gage R&R and TMV in Minitab; supported IQ/OQ/PQ on 4 production lines.
 
