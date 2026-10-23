@@ -21,6 +21,12 @@ I'm a mechanical engineer with hands-on experience in manufacturing process opti
 
 | Project | What it does | Built with |
 | --- | --- | --- |
+| [**SPC & Capability Studio**](https://github.com/PiyushBhamare2111/spc-capability-studio) | Control charts with Nelson rules, Cp/Cpk/Pp/Ppk and ANOVA Gage R&R. 89 tests check it against Montgomery, NIST and AIAG worked examples. | Python · Streamlit · SciPy |
+| [**OEE & Downtime Dashboard**](https://github.com/PiyushBhamare2111/oee-downtime-dashboard) | MES-style plant simulator and dashboard: OEE, Six Big Losses, downtime Pareto, MTBF/MTTR and a what-if panel for changeover reduction. | Python · Streamlit · Plotly |
+| [**Surface Defect Inspection**](https://github.com/PiyushBhamare2111/surface-defect-inspection) | ResNet18 classifies 6 steel defect types, with Grad-CAM heatmaps and accept/reject/review thresholds. Stress-tested for focus and lighting drift. | PyTorch · torchvision · Streamlit |
+| [**Assembly Line Balancer**](https://github.com/PiyushBhamare2111/assembly-line-balancer) | Takt time, three textbook heuristics and an exact CP-SAT optimizer, with yamazumi charts. Matches the published optimum on all 81 Scholl benchmark instances. | Python · OR-Tools · Streamlit |
+| [**Topology Optimization in Python**](https://github.com/PiyushBhamare2111/topology-optimization-python) | 2D SIMP optimizer written from scratch: FEA, filters and optimality-criteria update, with STL export. Includes a C-clamp case based on my ANSYS project. | NumPy · SciPy · Streamlit |
+| [**Predictive Maintenance (RUL)**](https://github.com/PiyushBhamare2111/predictive-maintenance-rul) | Predicts jet-engine remaining life on NASA C-MAPSS and turns each prediction into a cost-optimal maintenance decision. | PyTorch · scikit-learn · Streamlit |
 | **Topology-optimized C-clamp** | Topology optimization under a 100 N load cut part volume to 32.6% while keeping peak stress within PLA limits. Printed under 6 g at ±0.2 mm and tested to failure at 0.63 kN, confirming the FEA. | ANSYS · FEA · FFF 3D printing |
 | **Robotic arm for automated pickup** | 6-DOF manipulator with inverse kinematics, trajectory planning and vision feedback for automated object pickup. | MATLAB · Computer Vision Toolbox |
 | **Conveyor system for gear inspection** | AI-powered conveyor that inspects gears with 90%+ defect detection, with live defect analytics on Power BI dashboards. | Computer vision · MES/SCADA · Power BI |
