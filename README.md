@@ -45,7 +45,7 @@ I'm a mechanical engineer with hands-on experience in manufacturing process opti
 
 **Mylan Laboratories**
 - Calibrated Cognex/Keyence machine-vision inspection: accuracy up 15%, 300+ false rejects/month eliminated.
-- Integrated MES/SCADA with Power BI across 8 assembly lines for real-time defect tracking.
+- Integrated MES/SCADA with Power BI across 7 assembly lines for real-time defect tracking.
 - Validated inspection systems with Gage R&R and TMV in Minitab; supported IQ/OQ/PQ on 4 production lines.
 
 **Shivkrupa Techno-Plast**
